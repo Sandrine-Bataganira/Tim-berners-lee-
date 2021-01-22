@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+    
+</head>
+<body></body>
+    
+    <article class="main">
+        <img src="/Users/WebDev/Downloads/tim berners/tim_berners_lee.jpg" alt="tim-berners-lee">
+            <header>
+        <h1>Tim Berners-Lee</h1>
+        <p><strong>Inventor of HTML</strong></p>
+            </header>
+        <p>Tim bernrs-Lee is the <strong>inventor</strong>of the web. in 1989,Tim was working in a computing service section of CERN when he came up with the concept;at the time he had no idea thar
+        it would be implemented on such an <strong>enormous scale.</strong></p>
+       <section class="container">
+        <button onclick=>see yourself</button>
+    </article>
+    <section class="container">
+   <nav class="link">
+       <ul>  
+             
+            <li><a href="/">Facebook</a></li> 
+            <li><a href="/">Linkedin</a></li> 
+            <li><a href="/">Twitter</a></li> 
+        </ul>
+    </nav>
+    <section class="section">
+        <article>
+            <header>
+                <h2>His favorite movies</h2>
+                </header>
+            
+                <h3>2001-space Odyssey<h3>
+            
+            <p><img src="space_odyssey.jpg" alt="space-odyssey">Humanity finds a mysterious,obviously artificial, object buried beneath the lunar surface and with the inteligence computer HALL 9000, set off on a quest.</p>
+        
+        </article>
+        <article>
+            <h4>Monsieur Hulot</h4>
+            <p><img  src="mister_hulot.jpg" alt="mister_hulot"> comes to a beachside hotel for a vacation where he accidently (but good naturedly) causes havoc </p>
+        
+        </article>
 
-You can use the [editor on GitHub](https://github.com/Sandrine-Bataganira/Tim-berners-lee-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sandrine-Bataganira/Tim-berners-lee-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <article>
+            <h4>Alien</h4>
+            <p><img class="img"src="alien.jpg" alt="alien">The commerciel vesel Nostromo receives a distress call from an unexplored planet.Afet searching for the survivors ,the crew heads homme only realize that a deadly bioform has joined them.</p>
+            </article>
+    </section>
+</section>  
+</section>
+</body>
+</html>
